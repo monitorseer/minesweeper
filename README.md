@@ -1,7 +1,5 @@
-# minesweeper
-! BE WARNED !
-By some miracle, I managed to get the game somewhat working before I gave up.
-HOWEVER, it is very scuffed and there are some features that I have not included like the most basic flags.
-Also, I played around with my variables to make it somewhat work so some variables may make absolutely 0 sense.
-I will be working on it in my free time and hope that I can produce an actual working version of it.
-Thanks for dropping by! ^^;
+# Minesweeper
+This was just a challenge for myself to see whether I could manage to code a scalable and working version of Minesweeper **only** from vanilla Python.\
+That means that I would not be using any modules, packages or libraries (eg. NumPy, PyGame).
+As of now, it seems to just about work as intended but no testing has been made to ensure that it really does work, so be prepared if errors arise.\
+Currently, I do not have any plans to fix or improve the code but I may do so in my free time.
